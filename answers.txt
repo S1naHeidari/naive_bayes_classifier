@@ -1,0 +1,4 @@
+accuracy (stopword_removal = false, stemming = false): 0.8214285714285714
+accuracy (stopword_removal = True, stemming = false): 0.9591836734693877
+accuracy (stopword_removal = false, stemming = true): 0.8061224489795918
+accuracy (stopword_removal = true, stemming = true): 0.9489795918367347
